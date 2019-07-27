@@ -1,6 +1,6 @@
 # instaCaption
 
-This application was built to help users assign a photo caption based on the number of faces detected in a photo. Photos can be uploaded from the internet via a working URL or from the users photo library in his or her iPhone.
+This application was built to help users assign a photo caption based on the number of faces detected in a photo. Photos can be uploaded from the internet via a working URL or from the users photo library in his or her iPhone. (Scroll to bottom for preview)
  
  
  
@@ -18,4 +18,5 @@ This application was built to help users assign a photo caption based on the num
 | ------------- | ------------- | -------------|
 | <img src="https://github.com/ericdyan/instaCaption/blob/master/Screen%20Shot%202019-07-27%20at%209.49.24%20AM.png" width="233.75" height="473.5"> |  <img src="https://github.com/ericdyan/instaCaption/blob/master/Screen%20Shot%202019-07-27%20at%2011.10.57%20AM.png" width="233.75" height="473.5">  |   <img src="https://github.com/ericdyan/instaCaption/blob/master/Screen%20Shot%202019-07-27%20at%2011.09.45%20AM.png" width="233.75" height="473.5"> |
 
+![](preview.gif)
 
